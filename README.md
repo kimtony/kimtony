@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🌱 I’m currently learning golang、devolps、ipfs、swarm
+- 🌱 I’m currently learning golang、devops、ipfs、swarm
 <!--
 **kimtony/kimtony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
