@@ -1,16 +1,13 @@
 
-[![kimtony's github stats](https://github-readme-stats.vercel.app/api?username=kimtony)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi 👋
 - 🌱 I’m currently learning golang、devops、ipfs、swarm
+- 💬 Ask me about eamil bGlua2FpMjAzMEBnbWFpbC5jb20=
+
+[![kimtony's github stats](https://github-readme-stats.vercel.app/api?username=kimtony)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-### 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; golang php
-- 🛢 &#160;  MySQL postgres
 
 <!--
 **kimtony/kimtony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
