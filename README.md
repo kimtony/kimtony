@@ -2,7 +2,7 @@
 
 ### Hi 👋
 - 🌱 I’m currently learning golang、devops、ipfs、swarm
-- 💬 Ask me about eamil: bGlua2FpMjAzMEBnbWFpbC5jb20=
+- 💬 Ask me about gmail: bGlua2FpMjAzMEBnbWFpbC5jb20=
 
 [![kimtony's github stats](https://github-readme-stats.vercel.app/api?username=kimtony)](https://github.com/anuraghazra/github-readme-stats)
 
